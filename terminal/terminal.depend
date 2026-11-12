@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1794415581 source:/media/mazen/Main/iti labs/c++/terminal-text-mod/terminal/main.cpp
+	<iostream>
+
+1794515139 source:/media/mazen/Main/iti labs/c++/terminal-text-mod/src/TerminalTextLocationLib.cpp
+	"TerminalTextLocationLib.h"
+	<iostream>
+	<windows.h>
+
+1794521233 /media/mazen/Main/iti labs/c++/terminal-text-mod/include/TerminalTextLocationLib.h
+	<iostream>
+
+1794502906 source:/media/mazen/Main/iti labs/c++/terminal-text-mod/src/main.cpp
+	<iostream>
+	"TerminalTextLocationLib.h"
+	"TextColorTerminalLib.h"
+	"ArrowInput.h"
+	"menuCreation.h"
+
+1793734650 /media/mazen/Main/iti labs/c++/terminal-text-mod/include/TextColorTerminalLib.h
+
+1794417964 /media/mazen/Main/iti labs/c++/terminal-text-mod/include/ArrowInput.h
+
+1794506063 source:/media/mazen/Main/iti labs/c++/terminal-text-mod/src/ArrowInput.cpp
+	<iostream>
+	<cstdio>
+	<unistd.h>
+	<termios.h>
+	"ArrowInput.h"
+
+1794516671 source:/media/mazen/Main/iti labs/c++/terminal-text-mod/src/arrayDublication.cpp
+
+1794517122 /media/mazen/Main/iti labs/c++/terminal-text-mod/include/menuCreation.h
+
+1794520908 source:/media/mazen/Main/iti labs/c++/terminal-text-mod/src/menuCreation.cpp
+	<iostream>
+	<cstdlib>
+	"menuCreation.h"
+	"TerminalTextLocationLib.h"
+	"TextColorTerminalLib.h"
+	"ArrowInput.h"
+	"arrayDublication.h"
+
+1794516912 /media/mazen/Main/iti labs/c++/terminal-text-mod/include/arrayDublication.h
+
